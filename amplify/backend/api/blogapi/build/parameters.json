@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "blogapi",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "S3DeploymentBucket": "amplify-blogapi-blogapi-213341-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/6809943f12503c832dcd71131216ec7b9ac3c1ab"
+}
